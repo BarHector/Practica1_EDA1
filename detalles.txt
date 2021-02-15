@@ -1,0 +1,11 @@
+Realizar un sistema que le permita  automatizar la captura y cálculos de las temperaturas mensuales máximas 
+registradas en todos los estados de México por año.  
+
+Este sistema debe:
+1) Permitir almacenar por cada estado, la temperatura mensual máxima registrada (°C) durante los años: 
+2005, 2010, 2015 y 2019.
+
+2) Obtener e imprimir el promedio anual de la temperatura máxima registrada por cada estado
+
+3) Identificar el estado con la mayor temperatura registrada en el año e imprimir el número de estado, el
+mes en que se registró la temperatura más alta y cuál fue esa temperatura máxima 
